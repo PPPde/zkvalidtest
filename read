@@ -2,7 +2,7 @@
 var message
 var chain
 var sender
-var receiver
+
 when (sender send message
 then ( zkvali)
 )
